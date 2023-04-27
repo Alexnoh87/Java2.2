@@ -3,7 +3,6 @@ public class Main {
 
         int account = 851;
         int replenishment = 1340;
-        int accrual = 100;
         int iBonus = 0;
 
         int bonus;
